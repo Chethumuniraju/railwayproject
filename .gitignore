@@ -1,0 +1,10 @@
+# Ignore backend build output
+/railwaybackend/target/
+
+# Ignore frontend dependencies
+/railwayfrontend/node_modules/
+
+# Optional: General IDE and OS files (recommended)
+*.log
+.DS_Store
+.env
