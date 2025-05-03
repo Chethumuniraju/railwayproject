@@ -3,6 +3,7 @@
 
 # Ignore frontend dependencies
 /railwayfrontend/node_modules/
+/backend/node_modules/
 
 # Optional: General IDE and OS files (recommended)
 *.log
